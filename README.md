@@ -1,2 +1,2 @@
 # Build_A_Formik_Form
-A simple form in react to ask a username and password using formik library
+A simple form in react to ask to an user his/her username and password, using formik library
